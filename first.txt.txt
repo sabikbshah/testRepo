@@ -1,6 +1,10 @@
 hello
+<<<<<<< HEAD
 
 
 
 
 adding changes locally
+=======
+changes from git hub
+>>>>>>> e7ce95bceb5371d67c588bb446a02c82550eaa0c
