@@ -1,3 +1,6 @@
 This is a third file for git Practise 2!!!
 
 github THe third step is completed.
+Hello, from local vscode practising development.
+
+Hello, from local vscode practising development.
